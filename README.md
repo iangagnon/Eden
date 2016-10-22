@@ -13,7 +13,12 @@ This project is no longer being actively pursued by any of its original founders
 - #22 Guage Solid Wire
 
 #Setup
-1. Download the latest version of Arduino software from https://www.arduino.cc/en/Main/Software to your computer
-2. Connect the Arduino GSM Shield to the Arduino Mega. Note, you will have to bend pin 2 on the GSM shield to the side and short out pin 2 to pin 10 on the GSM Shield as well. Instructions for this are shown here https://www.arduino.cc/en/Guide/GSMShieldLeonardoMega
+1. Download the latest version of Arduino software from [here](https://www.arduino.cc/en/Main/Software) to your computer
+2. Connect the Arduino GSM Shield to the Arduino Mega. Note, you will have to bend pin 2 on the GSM shield to the side and short out pin 2 to pin 10 on the GSM Shield as well. Instructions for this are shown [here](https://www.arduino.cc/en/Guide/GSMShieldLeonardoMega)
 3. Insert your GSM Enabled Sim Card into the GSM Shield.
-4. Connect your Arduino Mega to your computer using the USB cable provided with the Mega. Using the Arduino software open the code
+4. Connect your flow meter. To do this connect the black wire of the flow meter to a ground on the Arduino Mega
+..* Yellow wire to pin #2 on the Arduino Mega
+..* Black wire to a ground pin
+..* Red wire to a 5V pin
+![alt text](github.com/iangagnon/Eden/ArduinoPinOut.PNG)
+5. Connect your Arduino Mega to your computer using the USB cable provided with the Mega. Using the Arduino software open the EdenGSM.ino code and upload it to the Arduino Mega.
