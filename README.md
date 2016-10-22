@@ -10,7 +10,7 @@ This project is no longer being actively pursued by any of its original founders
 - 1 Arduino Case
 - 1 USB Battery
 - 1 Flow Meter
-- Wire
+- #22 Guage Solid Wire
 
 #Setup
 1. Download the latest version of Arduino software from https://www.arduino.cc/en/Main/Software to your computer
