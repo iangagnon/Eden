@@ -1,0 +1,130 @@
+did not post
+
+Starting Arduino web client.
+AT%13%
+0 9>AT%13%%13%%10%OK%13%%10%
+AT+CGREG?%13%
+9 40>AT+CGREG?%13%%13%%10%+CGREG: 0,5%13%%10%%13%%10%OK%13%%10%
+AT+IFC=1,1%13%
+40 57>AT+IFC=1,1%13%%13%%10%OK%13%%10%
+AT+CMGF=1%13%
+57 75>%19%%17%AT+CMGF=1%13%%13%%10%OK%13%%10%
+AT+CLIP=1%13%
+75 91>AT+CLIP=1%13%%13%%10%OK%13%%10%
+ATE0%13%
+91 102>ATE0%13%%13%%10%OK%13%%10%
+AT+COLP=1%13%
+102 108>%13%%10%OK%13%%10%
+gsmAccess good
+AT+CGATT=1%13%
+108 114>%13%%10%OK%13%%10%
+AT+QIFGCNT=0%13%
+114 120>%13%%10%OK%13%%10%
+AT+QICSGP=1,"apn","",""%13%
+120 126>%13%%10%OK%13%%10%
+AT+QIMUX=0%13%
+126 4>%13%%10%OK%13%%10%
+AT+QIMODE=1%13%
+4 10>%13%%10%OK%13%%10%
+AT+QINDI=1%13%
+10 16>%13%%10%OK%13%%10%
+AT+QIREGAPP%13%
+16 22>%13%%10%OK%13%%10%
+AT+QIACT%13%
+22 28>%13%%10%OK%13%%10%
+Connected
+Buffer filled. Sending:
+Waiting: 0
+
+Flow reading: 0   Total Volume is: 0  Time was: 20
+
+Buffer filled. Sending:
+Waiting: 0
+
+Flow reading: 0   Total Volume is: 0  Time was: 20
+
+Buffer filled. Sending:
+Waiting: 0
+
+Flow reading: 0   Total Volume is: 0  Time was: 20
+
+Buffer filled. Sending:
+
+
+Flow reading: 7   Total Volume is: 7  Time was: 10
+
+Buffer filled. Sending:
+
+
+Flow reading: 7   Total Volume is: 14  Time was: 11
+
+Buffer filled. Sending:
+Waiting: 1
+
+Flow reading: 0   Total Volume is: 14  Time was: 22
+
+Buffer filled. Sending:
+Waiting: 2
+
+Flow reading: 0   Total Volume is: 14  Time was: 22
+
+Buffer filled. Sending:
+Waiting: 3
+
+Flow reading: 0   Total Volume is: 14  Time was: 22
+
+Buffer filled. Sending:
+Waiting: 4
+
+Flow reading: 0   Total Volume is: 14  Time was: 21
+
+Buffer filled. Sending:
+Waiting: 5
+
+Flow reading: 0   Total Volume is: 14  Time was: 21
+
+Buffer filled. Sending:
+Posting XML:14
+
+connecting...
+AT+QIDNSIP=0%13%
+28 34>%13%%10%OK%13%%10%
+AT+QIOPEN="TCP","52.25.30.66",80%13%
+34 40>%13%%10%OK%13%%10%
+connection failed
+
+COMPLETE!
+
+
+
+Flow reading: 0   Total Volume is: 0  Time was: 13554
+
+Buffer filled. Sending:
+Waiting: 0
+
+Flow reading: 0   Total Volume is: 0  Time was: 21
+
+Buffer filled. Sending:
+Waiting: 0
+
+Flow reading: 0   Total Volume is: 0  Time was: 21
+
+Buffer filled. Sending:
+Waiting: 0
+
+Flow reading: 0   Total Volume is: 0  Time was: 21
+
+Buffer filled. Sending:
+Waiting: 0
+
+Flow reading: 0   Total Volume is: 0  Time was: 21
+
+Buffer filled. Sending:
+Waiting: 0
+
+Flow reading: 0   Total Volume is: 0  Time was: 21
+
+Buffer filled. Sending:
+Waiting: 0
+
+Flow reading: 0   Total Volume is: 0  Time wa
