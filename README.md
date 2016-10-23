@@ -19,8 +19,5 @@ This project is no longer being actively pursued by any of its original founders
 4. Connect your flow meter. To do this connect the black wire of the flow meter to a ground on the Arduino Mega
 ..* Yellow wire to pin #2 on the Arduino Mega
 ..* Black wire to a ground pin
-..* Red wire to a 5V pin
-
- ![alt text](https://github.com/iangagnon/Eden/blob/master/photos/ArduinoPinOut.PNG)
- 
+..* Red wire to a 5V pin 
 5. Connect your Arduino Mega to your computer using the USB cable provided with the Mega. Using the Arduino software open the EdenGSM.ino code and upload it to the Arduino Mega.
